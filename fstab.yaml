@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1Nt4GpVUlq8ot_t7VH152XY50dkr_X96L
+  /:
+    url: https://51837-lakshaystestground-stage.adobeio-static.net/api/v1/web/aio-test-app-0/test-action
+    type: markup
+    suffix: '.md'
